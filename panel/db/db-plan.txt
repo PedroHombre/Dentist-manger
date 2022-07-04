@@ -1,0 +1,44 @@
+Tables:
+    users:
+        - id
+        - username
+        - password
+        - email
+        - ip
+
+    user roles:
+        - user-id
+        - role
+
+    user info:
+        - name
+        - surname
+        - domicile
+        - birth
+        - phone number
+        - specialty
+
+    working hours:
+        - user id
+        - work hours Mn
+        - work hours Tue
+        - work hours Wd
+        - work hours Th
+        - work hours Fr
+        - work hours Sat
+        - work hours Sun
+
+    treatments:
+        - id
+        - treatment name
+
+    dentist treatments:
+        - treatment id
+        - doctor id
+
+    appointments:
+        - id
+        - appointment date
+        - doctor id
+        - patient id
+        - description
