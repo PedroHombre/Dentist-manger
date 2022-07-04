@@ -31,6 +31,7 @@ Tables:
     treatments:
         - id
         - treatment name
+        - price
 
     dentist treatments:
         - treatment id
@@ -42,3 +43,18 @@ Tables:
         - doctor id
         - patient id
         - description
+
+    notifications:
+        - id
+        - user id
+        - message
+        - link
+        - date
+
+    medical records:
+        - id
+        - user id
+        - doctor id
+        - title
+        - content
+        - date
