@@ -1,3 +1,3 @@
-<a href="/panel/login.php">Login</a>
+<a href="panel/login.php">Login</a>
 <br />
-<a href="/panel/register.php">Register</a>
+<a href="panel/register.php">Register</a>

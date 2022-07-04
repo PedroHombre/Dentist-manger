@@ -30,3 +30,5 @@
 
     <input type="button" id="formSubmitBtn" value="Register">
 </form>
+
+<script src="js/register-validation.js"></script>
