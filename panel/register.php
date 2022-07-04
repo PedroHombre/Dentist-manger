@@ -7,13 +7,13 @@
 - loggedin redirect
 - email account verication -->
 
-<form method="POST">
+<form method="POST" id="registerForm">
     <label for="name">Name</label>
     <input type="text" name="name" id="name">
     <br />
 
     <label for="surname">Surname</label>
-    <input type="text" name="surname">
+    <input type="text" name="surname" id="surname">
     <br />
 
     <label for="mail">E-mail</label>
