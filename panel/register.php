@@ -4,7 +4,8 @@
 - realtime password strength calculator
 - js validations
 - php validations
-- loggedin redirect -->
+- loggedin redirect
+- email account verication -->
 
 <form method="POST">
     <label for="name">Name</label>
@@ -26,4 +27,6 @@
     <label for="repeat password">Repeat password</label>
     <input type="password" name="repeatPassword" id="repeatPassword">
     <br />
+
+    <input type="button" id="formSubmitBtn" value="Register">
 </form>
