@@ -6,7 +6,7 @@
 - php validations
 - loggedin redirect -->
 
-<form action="POST">
+<form method="POST">
     <label for="name">Name</label>
     <input type="text" name="name" id="name">
     <br />
